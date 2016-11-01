@@ -1,0 +1,7 @@
+#Tue Nov 01 14:52:09 PDT 2016
+base.0=C\:\\Users\\fmaalouli\\aws-sdk-android-samples-master\\AmazonCognitoYourUserPoolsDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ca330c8e651943509b6d86d1b37f124698cf1566
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\fmaalouli\\aws-sdk-android-samples-master\\AmazonCognitoYourUserPoolsDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_773f12e60ea40b1ba5649811ea3cbf3d35890b7a\\classes.dex
+base.1=C\:\\Users\\fmaalouli\\aws-sdk-android-samples-master\\AmazonCognitoYourUserPoolsDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_773f12e60ea40b1ba5649811ea3cbf3d35890b7a
+file.0=C\:\\Users\\fmaalouli\\aws-sdk-android-samples-master\\AmazonCognitoYourUserPoolsDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ca330c8e651943509b6d86d1b37f124698cf1566\\classes.dex
